@@ -37,4 +37,33 @@ The goal is to evaluate **financial behavior over time** and provide actionable 
 
 ## 📊 Results & Impact
 - Improved financial efficiency through reduced expenses and higher savings.
-- Clear evidence of **successful investment and financia**
+- Clear evidence of **successful investment and financial planning**.
+- Recommendations:
+  - Increase investments aligned with risk profile.
+  - Continue expense control and saving habits.
+  - Diversify income streams further.
+
+---
+
+## 📂 Project Structure
+Personal_Financial_Snapshot/
+│-- data/
+│ └── transactions.csv
+│-- notebooks/
+│ └── financial_analysis.ipynb
+│-- dashboards/
+│ └── finance_snapshot.pbix
+│-- images/
+│ └── finance_dashboard.png
+│-- README.md
+
+
+---
+
+## 👤 Authors
+- Trương Thị Thanh Thùy  
+- Nguyễn Thị Hồng Phúc  
+- Trần Ngọc Minh Khanh  
+- Tô Huỳnh Ngọc Ngân  
+
+---
